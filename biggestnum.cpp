@@ -20,7 +20,7 @@ int main()
 	
 	}
 	else std::cout<<third<<second<<first;
-	
+	//blago i uno
 	return 0;
 }
 
